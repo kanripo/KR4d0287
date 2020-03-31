@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山房集
-#+DATE: 2020-03-31 11:34:32.207459
+#+DATE: 2020-03-31 11:34:32.321755
 #+PROPERTY: ID KR4d0287
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4d0287_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -156,7 +156,7 @@
 ¶
 　　燏火燒烏桕敲氷煑石楠烈風冬日夜短褐野人菴麥¶
 <pb:KR4d0287_WYG_001-7a>¶
-地宜秧穀香欒記接柑山中無&KR0527;具日影漸移南(一本雲物¶
+地宜秧穀香欒記接柑山中無𣙗具日影漸移南(一本雲物¶
 照農蠶)¶
 ¶
 　　山家¶
